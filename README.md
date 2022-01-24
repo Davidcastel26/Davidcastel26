@@ -35,7 +35,7 @@ class Skills extends SoftwareDeveloper {
 ### Check here one of My proyects..
 
 [Pokemon Collector](https://github.com/Davidcastel26/PI-Pokemon-main)
-
+<img alt="Pokemon" src="./home.png" >
 ---
 
 <h3> 🤝🏻 Connect with Me </h3>
