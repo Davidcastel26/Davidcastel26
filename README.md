@@ -7,13 +7,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 👯 I’m looking to collaborate on startups (It's a dream)
+-😄 Pronouns: He/His/Him
+- ⚡ Fun fact: I like to climb volcanoes, on December 18 2021, I climbed a volcano at night unknowing the way
 
 ```js
 import SoftwareDeveloper from 'SoyHenryBotcamp';
@@ -30,6 +31,13 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Redux', 'Express', 'Sequalize'];
 }
 ```
+---
+### Check here one of My proyects..
+
+
+
+---
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
