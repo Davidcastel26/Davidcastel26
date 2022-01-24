@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 👯 I’m looking to collaborate on startups (It's a dream)
--😄 Pronouns: He/His/Him
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I like to climb volcanoes, on December 18 2021, I climbed a volcano at night unknowing the way
 
 ```js
