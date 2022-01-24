@@ -40,9 +40,9 @@ class Skills extends SoftwareDeveloper {
 
 <a href="https://www.linkedin.com/in/david-larios-29a8231a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dave%20Castellanos-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/david_castel26/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-david_castel26-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davcastellanoslarios@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
