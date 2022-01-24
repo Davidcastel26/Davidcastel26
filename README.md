@@ -21,7 +21,6 @@ import SoftwareDeveloper from 'SoyHenryBotcamp';
 class Bio extends SoftwareDeveloper {
   name     = 'David Castellanos';
   title    = 'Software Engineer';
-<!--   company  = 'Pipoca Digital | Remote'; -->
   location = 'Guatemala';
 }
 
