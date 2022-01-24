@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```js
+import SoftwareDeveloper from 'SoyHenryBotcamp';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'David Castellanos';
+  title    = 'Software Engineer';
+<!--   company  = 'Pipoca Digital | Remote'; -->
+  location = 'Guatemala';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript','Node JS'];
+  databases  = ['PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Redux', 'Express', 'Sequalize'];
+}
+```
+
 ---
 
 ⭐️ From [@Davidcastel26](https://github.com/Davidcastel26)
