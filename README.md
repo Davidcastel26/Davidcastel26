@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to climb volcanoes, on December 18 2021, I climbed a volcano at night unknowing the way
 
 ```js
-import SoftwareDeveloper from 'Only Courses';
+import SoftwareDeveloper from 'Online Courses';
 
 class Bio extends SoftwareDeveloper {
   name     = 'David Castellanos';
