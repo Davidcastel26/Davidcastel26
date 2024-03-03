@@ -12,31 +12,34 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 👯 I’m looking to collaborate on startups (It's a dream)
+- 👯 I’m looking to collaborate on startups
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I like to climb volcanoes, on December 18 2021, I climbed a volcano at night unknowing the way
-
+- ⚡  Ready for any challenges
+- 🌱 I’m currently learning Nestjs (Micro services)
+  
 ```js
 import SoftwareDeveloper from 'Online Courses';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'David Castellanos';
-  title    = 'Software Engineer';
+  name     = 'David C';
+  title    = 'Software Developer';
   location = 'Guatemala';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript','Node JS', 'Python'];
-  databases  = ['PostgreSQL','MSSQL','MYSQL'];
-  frameworks = ['React', 'React Native', 'Redux', 'Express'];
-  ORMs       = ['Sequalize','PRISMA'];
+  languages  = ['JavaScript','Typescript'];
+  databases  = ['PostgreSQL','MYSQL'];
+  frameworks = ['React', 'NextJs','Express'];
+  ORMs       = ['PRISMA'];
 }
 ```
 ---
 ### Check here one of My proyects..
 
-[Pokemon Collector](https://github.com/Davidcastel26/PI-Pokemon-main)
+[Proyect](https://github.com/Davidcastel26/PI-Pokemon-main)
+<!--
 <img alt="Pokemon" src="./home.png" >
+-->
 ---
 
 <h3> 🤝🏻 Connect with Me </h3>
