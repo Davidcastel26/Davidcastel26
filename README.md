@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on startups
 - 😄 Pronouns: He/His/Him
 - ⚡  Ready for any challenges
-- 🌱 I’m currently learning Nestjs (Micro services)
-  
+- 🌱 I’m currently learning AI  
 ```js
 import SoftwareDeveloper from 'Online Courses';
 
@@ -27,12 +26,17 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript','Typescript'];
-  databases  = ['PostgreSQL','MYSQL'];
-  frameworks = ['NextJs','Express'];
+  languages  = ['JavaScript','Typescript', 'Python' ];
+  databases  = ['PostgreSQL','MYSQL','Oracle'];
+  frameworks = ['NextJs','Express','Nest','FastAPI','ReactNative','Streamlit'];
   ORMs       = ['PRISMA'];
 }
 ```
+---
+### Want to check my portfolio?
+
+[Portfolio](https://davidcst-dev.vercel.app/)
+
 ---
 ### Check here one of My proyects..
 
