@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 👯 I’m looking to collaborate on startups
+-  🔭 I’m currently working on an open source tax calculation real time for my contry Guatemala!
 - 😄 Pronouns: He/His/Him
 - ⚡  Ready for any challenges
-- 🌱 I’m currently learning AI  
+- 🌱 I’m currently a Senior AI engineer
+-  💬 Ask me about how to create implementations with AI in your company
+-  📫 How to reach me: in linkedin David Castellanos or /dev-david-larios
 ```js
 import SoftwareDeveloper from 'Online Courses';
 
